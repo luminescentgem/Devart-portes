@@ -1,0 +1,50 @@
+
+Intro
+$NVotre pire destinée n'est peut-être pas aux portes de l'Enfer, là où Cerbère vous attend.
+5
+$NPeut-être qu'il existe un chemin encore plus hardu et effrayant à prendre ?
+4-characterReveal-2
+$NVoici Maddy, la jeune femme qui redoutait plus d'ouvrir sa porte d'entrée que de traverser les limbes!
+5-4
+$Dmaddy...
+2-1
+$DMADDY !
+2-1
+$DMADDYYYYY !
+2-1
+$DRéveille-toi donc !
+2-WakeUp-1
+$MQue.. Quoi ? Qu'y a-t-il ?
+2-3
+$DVoix mystérieuse: Enfin levée ! Ça fait 13 heures que tu dors.
+3-getUp-5
+$DVoix mystérieuse: Tu es ravissante, avec ta serpillère en guise de cheveux.
+3
+$MQui me parle ?
+2-dramaticDoorReveal
+$DJ'en ai assez de t'entendre ronfler dans cette pièce horrible. Regarde ce bazar !
+4-1
+$MMa porte ! Qu'est-ce que ...?
+2
+$DJe ne suis là que par ta faute. Crois-moi, j'aurais préféré être une porte de manoir.
+4
+$DOu au moins d'un appartement bien entretenu... Je suis bien content de ne pas avoir de nez.
+3-zoomOut-1-freePlayer
+$MIl faut que j'aille aux toilettes... Ça me réveillera.
+3
+$D(D'une voix mauvaise) A tout de suite !
+4
+&
+Toilettes
+$NVous ne croyez quand même pas que c'est une fonctionnalité ?
+4
+$MZut...
+2
+&
+Lavabo
+$MÇa fait du bien...
+2
+&
+Mainroom
+$DQui voilà donc ? Alors, comment comptes-tu gaspiller ton temps aujourd'hui ?
+4-1

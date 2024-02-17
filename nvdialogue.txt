@@ -1,0 +1,201 @@
+Intro
+$NVotre pire destinée n'est peut-être pas aux portes de l'Enfer, là où Cerbère vous attend.
+5
+$NPeut-être qu'il existe un chemin encore plus hardu et effrayant à prendre ?
+4-characterReveal-2
+$NVoici Maddy, la jeune femme qui redoutait plus d'ouvrir sa porte d'entrée que de traverser les limbes!
+5-4
+$Dmaddy...
+2-1
+$DMADDY !
+2-1
+$DMADDYYYYY !
+2-1
+$DRéveille-toi donc !
+2-WakeUp-1
+$MQue.. Quoi ? Qu'y a-t-il ?
+2-3
+$DVoix mystérieuse: Enfin levée ! Ça fait 13 heures que tu dors.
+3-getUp-5
+$DVoix mystérieuse: Tu es ravissante, avec ta serpillère en guise de cheveux.
+3
+$MQui me parle ?
+2-dramaticDoorReveal
+$DJ'en ai assez de t'entendre ronfler dans cette pièce horrible. Regarde ce bazar !
+4-1
+$MMa porte ! Qu'est-ce que ...?
+2
+$DJe ne suis là que par ta faute. Crois-moi, j'aurais préféré être une porte de manoir.
+4
+$DOu au moins d'un appartement bien entretenu... Je suis bien content de ne pas avoir de nez.
+3-zoomOut-1-freePlayer
+$MIl faut que j'aille aux toilettes... Ça me réveillera.
+3
+$D(D'une voix mauvaise) A tout de suite !
+$Napres un débarbouillage Maddy sortit de la salle de bain
+<salon
+$DQui voilà donc ? Alors, comment comptes-tu gaspiller ton temps aujourd'hui ?
+4-1
+$MAujourd'hui je range l'appart
+$Dyipppi!
+$N(chuchotte) il était temps.
+$Mfiche moi la paix veux tu?
+$N(de vive voix) étonnament la jeune fille de 20 ans n'avais pas d'amis
+$Mtrés drôle,je n'ai vraiment pas la force de vous écouter.
+$Mbon j'ai d'autres chats à foutter, il va falloir commmencer le ménage!
+$MMhhh, go prendre un petit café avant ça!
+$Dmême pas commencé que tu te disperse déjà, tu es doté d'une sacré capacité a te concentrer dis moi.
+$Mapres une nuit blanche il faut bien ça sinon mes yeux ne s'ouvre meme pas.
+$Dune tel dépendence est pathétique, si tu ne passais pas tes nuit à jouer à des jeux vidéos tu pourrais profiter de ta vie.
+$Mdixit la porte qui m'empeche de sortir
+$Dc'est pas faux.
+
+<PREMIER OBJECTIF: faire son café
+@lancer la machine
+@prendre un bon café bien mérité
+
+$Dj'aimerais bien savoir ce que tu as fais pour "mériter" ce café.
+$Mje me suis levée de mon lit ce matin, c'est une raison valable je trouve.
+$Nla jeune femme finni son café et commença le ménage avec un flegme rarement vu dans cet appartement,
+*blackscreen
+*Fblackscreen
+<DEUXIEMME OBJECTIF : finir de nétoyer
+@lancer une machinne à laver
+@néttoyer le bureau.
+
+$Mbon! il est temps de laver mes tee-shirts.
+$NMaddy lança donc une machine, sa prochaine tache sera de nétoyer son bureau!
+$Met voila, c'est tout de suite plus propre, il faudrait vraiment que j'arrete de manger sur mon bureau.
+$Mhein? il est déjà 18h?!!? punaise ,punaise PUNAISE.
+
+*blackscreen
+
+<Chapitre 2: une aude a la contradiction
+
+$NMaddy passa la plupart de la nuit à jouer à browlhoula.
+$Nen allant au toilettes elle remarqua que la porte de la salle de bain avais changé de couleur.
+*Fblackscreen
+
+$Nun bruit signifiant la fin du cycle de lavage se fis retentir.
+$Mah, le lave linge.
+$Nen entrant das la salle de bain, la jeune femme fus éblouie par une lumiere blanche provenant de la porte.
+*whitescreen
+*Fwhitescreen
+$Nelle repris petit a petit ses espris et regarda autour d'elle.
+$Mtu peux faire moins de boucan ? j'ai un mal de crane carabiné là.
+$M.
+$M..
+$M...
+$Mbon, en effet je suis pas dans ma salle de bain là.
+$NEN EFFET!
+$NMaddy fus en fait téléporté dans la première épreuve!
+$Mpardon?
+$Nil s'avère que la porte d'entrée est maléfique, elle prévoit de ruinner ta vie.
+$Mc'est elle qui m'a enmenné ici?
+$Nnon pour le coup c'est moi.
+$Npour battre la porte il te faudra ses reliques, les reliques de la porte.
+$Mtrés original comme nom bravo.
+$N apres cette confusion, elle se mit en chemin, au croisement elle prit le chemin de gauche
+
+
+CAS 1: chemin de gauche: 
+$NAlors que dis tu de cette aventure Maddy, on s'éclate n'es ce pas ?
+$Mça fais 20 secondes que je marche, comment je pourrais trouver ça exitant?
+$Nil faut profiter de la route car elle importe plus que l'arrivé.
+$Mc'est cucu , j'ai vraiment pas envie d'écouter tes proverbes pas un brin originaux.
+$Nc'est d'une cruauté, je me demande si j'ai vraiment bien fais de faire cette petite aventure pour toi?
+$Nje devrais peut etre annuler?
+$MOUI!
+$NC'est une blague, l'aventure ne fais que commencer.
+$M(soupir) ...
+
+
+CAS 2: chemin de droite 
+$NMaddy a développé des problèmes de géolocalisation lors de cette petite marche, ne fut meme pas capable d'aller sur le bon chemin;
+$Nelle rebroussa alors son chemin pour revenir sur le chemin de GAUCHE.
+
+CAS 1 : Maddy continue le chemin
+$N il y a donc volonté de nuire, je vois, tu n'auras donc pas droit au proverbes avisée que j'avais préparé pour le BON chemin,
+$Nsi tu aime tant aller a l'encontre des choses, je te propose de lire ces définitions:
+$N-contraposition: c'est un type de raisonnement consistant à affirmer l'implication « si non B alors non A » à partir de l'implication « si A alors B ». L'implication « si non B alors non A » est appelée contraposée de « si A alors B ».
+$N-Opposition : Rapport de choses opposées qui ne peuvent coexister sans se nuire ; de personnes que leurs opinions, leurs intérêts opposent.
+$N-Contraste : Ce terme met l'accent sur la différence ou la dissemblance entre deux éléments.
+$N-Conflit : Il désigne une situation où des forces s'affrontent ou sont en désaccord ouvert.
+$Mstop..
+$Nje m'oppose a cette oposition
+$N-Antagonisme : Ce mot met l'accent sur une opposition active ou une hostilité entre deux parties.
+$N-Contestation : Il renvoie à l'action de remettre en question ou de contester ouvertement quelque chose.
+$N-Résistance : Il décrit l'opposition passive ou active à quelque chose, souvent dans le contexte de lutter contre un pouvoir ou une autorité.
+$N-Dissension : Ce terme désigne un désaccord ou une division au sein d'un groupe ou entre des individus.
+$Mc'est bon je m'excuse
+$Ntant mieux alors nous allons pouvoir continuer.
+
+
+<CAS 2 : Maddy rebrousse chemin :
+$NAlors que dis tu de cette aventure Maddy, on s'éclate n'es ce pas ?
+$Mça fais 20 secondes que je marche, comment je pourrais trouver ça exitant?
+$Nil faut profiter de la route car elle importe plus que l'arrivé.
+$Mc'est cucu , j'ai vraiment pas envie d'écouter tes proverbes pas un brin originaux.
+$Nc'est d'une cruauté, je me demande si j'ai vraiment bien fais de faire cette petite aventure pour toi?
+$Nje devrais peut etre annuler?
+$MOUI!
+$NC'est une blague, l'aventure ne fais que commencer.
+$M(soupir) ...
+
+
+
+$NMaddy arrive alors a un embromchement qui relie les deux chemins, a la fin de ce chemin elle trouvera une porte,pour sortir il lui suffira de toquer.
+$NMaddy toqua 2 fois sur la porte
+*whitescreen
+*Fwhitescreen
+$Nelle et fus transporté dans son salon, son attention fus attiré par une sorte de boucle en métal posée sur le sol,
+$Moui c'est bon je vais la prendre.
+$Da force de manger autant de malbouffe normal que tu reste autant de temps au toilettes.
+$M(sarcasme)ça dois étre ça oui...
+$Mbon il se fait tard, je devrais peut etre aller me coucher.
+*blackscreen
+$NMaddy fis donc, pour une fois ses heures de sommeil dépassèrent 6 heures, un exploit véritable.
+*Fblackscreen
+
+<Chapitre 3 : un infini labeur
+
+$NMaddy se reveille brusquement de son rève
+$Nelle vois que la porte de la salle de bain a comme une lueur rouge qui passe par ses fentes.
+$Mmais il ne vas jamais me laisser tranquile lui!
+$Mbon je rentre , on verra bien.
+$Nla jeune femme entra donc et fus une fois de plus transporté a un tout autrec endroit que sa salle de bain.
+
+$Nla jeune femme entamma donc la marche, un long silence se fit sentir.
+$Mbon...
+$Mil est long ce chemin tout de mème, ça me rapelle la fois ou je me suis perdus à disneland dans le labyrynthe, a cette époque j'avais seulement 10 ans et pas une once de géolocalisation n'aurais pu m'aider, j'ai donc fini par trouver des...
+$Ntu peux arréter  de raconter ta petite histoire s'il te plais?
+$Mben tu n'es pas aussi silencieux d'habitude du coup je comble;
+$N...
+$M...
+$Mon en voit pas le bout de se passage, j'aime pas trop les randonnée moi.
+$M...
+$Mbon;(se racle la gorge) , les dames qui m'avais trouvé dans ce labirynte étais allemande; je vais pas mentir si tu ne me répond pas je vais continuer a parler pendant un temps qui tend vers l'infini,
+$N(marmonne)
+$Mehein?
+$Nla jeune femme s'engoufra toujours plus profond dans cette ligne droite qui parraisait infini.
+$Npeut etre qu'elle avançais à reculons
+Cas1 : continuer d'avancer
+$Npeut etre que la jeune femme allais dans le mauvais sens?
+Cas2 : retourner en arriere
+$Nla jeunne femme fis demis tour pour trouver non loin une porte, elle toqua 2 fois et fustransporté dans son salon à nouveau.
+$Mah! et voila la deuxieme partie de la clée? tiens mais la porte a l'air d'avoir changé.
+$Dt'occupe, je pense que je porte un virus.
+$NMaddy s'avança vers la porte , la clé fusionna avec poignée , la porte repris un air de porte en bois tout a fais banal.
+
+
+<chapitre 4  : epilogue
+*black
+$Nj'aurais bien voulu te montrer,
+$Nqu'il est possible de le surmonter,
+$Nce vide en toi qui laisse place à la peur,
+$Ncelui qui a pris la place de ton coeur;
+$Nil m'est maleureusement impossible de t'aider,
+$Ncar en tout narrateur que je suis toi seule m'a fais exister.
+$Ntout ces problemes et ces pleurs,
+$Nne vienne que de cette porte qui cache un exterieur qui te fais tant peur.
+*Fblack
